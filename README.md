@@ -13,7 +13,7 @@ TaskManager API เป็น RESTful API สำหรับจัดการร
 - Node.js
 - Express.js
 - Prisma ORM
-- PostgreSQL
+- MySQL
 
 ## 📦 โครงสร้างโปรเจค
 ```
@@ -71,7 +71,7 @@ npm run dev
 - `DELETE /api/tasks/:id` - ลบ task
 
 ## 👨‍💻 ผู้พัฒนา
-Thanun Benz
+SUMBENZ
 
 ## 📄 License
 MIT License 
